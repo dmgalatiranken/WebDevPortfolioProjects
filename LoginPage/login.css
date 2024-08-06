@@ -1,0 +1,19 @@
+h1 {
+    margin: 10px;
+}
+
+span {
+    color: red;
+}
+
+#loginform {
+    margin: 10px;
+}
+
+#successMessage {
+    margin: 10px;
+}
+
+#errorMessage {
+    margin: 10px;
+}
