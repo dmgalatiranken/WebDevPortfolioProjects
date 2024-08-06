@@ -1,0 +1,23 @@
+h1 {
+    margin: 10px;
+}
+
+#btnUpvote {
+    margin: 10px;
+}
+
+#btnDownvote {
+    margin: 10px;
+}
+
+#numUpvotes {
+    margin: 10px;
+}
+
+#numDownvotes {
+    margin: 10px;
+}
+
+#totalScore {
+    margin: 10px;
+}
