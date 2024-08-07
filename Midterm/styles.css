@@ -1,0 +1,109 @@
+/* Main (home page) */
+.main-home {
+    margin: 10px;
+    background-color: lightblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+.who-we-are {
+    text-align: center;
+}
+
+.who-we-are-description {
+    text-align: center;
+}
+
+
+.display-4 {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+}
+
+.projects-heading {
+    text-align: center;
+}
+
+.carousel-item img {
+    max-height: 750px;
+}
+
+.carousel {
+    width: 50%;
+    margin: auto;
+  }
+
+.get-involved {
+    text-align: center;
+}
+
+.volunteer-opportunities {
+    text-align: center;
+}
+
+.volunteer-description {
+    text-align: center;
+}
+
+.parents-and-youth-engagement {
+    text-align: center;
+}
+
+.parents-and-youth-engagement-description {
+    text-align: center;
+}
+
+.join-us {
+    text-align: center;
+}
+
+.join-us-description {
+    text-align: center;
+}
+
+/* Main (contact page) */
+.main-contact {
+    font-family: 'Roboto', sans-serif;
+}
+
+.contact-message {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Main (gallery page) */
+.main-gallery {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.card {
+    border: 2px solid black;
+}
+
+/* Main (donation page) */
+.main-donations {
+    font-family: 'Roboto', sans-serif;
+}
+
+.donation-form {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Main (calendar page) */
+.main-calendar {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Footer */
+footer {
+    background-color: gray;
+}
